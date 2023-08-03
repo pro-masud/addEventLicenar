@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    margin-top: 100px;
+    margin-left: 300px;
+}
+
+ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.buttons button{
+    padding: 10px 15px;
+    margin: 0 10px;
+}
